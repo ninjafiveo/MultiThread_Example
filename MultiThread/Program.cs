@@ -12,7 +12,8 @@ namespace MultiThread
         static void Main(string[] args)
         {
             //NoThread.NoThreadExample();
-            ThreadingOne.DemoThread();
+            //ThreadingOne.DemoThread();
+            CrazyPC.CrazyFunctionCall();
 
         }
     }
